@@ -1,0 +1,3 @@
+The value of d is 982443611
+The value of s is -224648
+The value of t is 560797
